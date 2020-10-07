@@ -1,6 +1,6 @@
 DISCLAIMER:
 
-This was completely done on OSITN (open source intelligence) and passive recon.
+This was completely done on OSINT (open source intelligence) and passive recon.
 I didn't have any prior knowledge of Barclays.
 
 This is for educational purposes only and Barclays was only used as an example company,
